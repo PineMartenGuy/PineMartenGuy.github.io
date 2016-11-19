@@ -1,0 +1,38 @@
+
+            html{
+                font-family: 'Magneto','Arial','Webdings';
+                background-color: #08cee8;
+                    background-image:
+                    url(Images/manydoge.jpg);
+            }
+			h1{color:blue;}
+			h2{color:red;}
+            a{
+                font-family: 'Stencil','Arial','Wingdings';
+                background-color: #3d96ff;
+            }
+            img{
+                width:420px;
+                height:420px;
+            }
+            .hidden{
+                color: #000000;
+                font-family'Wingdings';'arial';
+                font-size: 45px;
+                font-weight: 400;
+                text-decoration: none;
+                opacity: .0155
+            }
+            
+            .mustsee{
+                color:#1dff00;
+                background-color:#00859d;
+            }
+            }
+            .imgspacer{
+                margin-top: 55px;
+                margin-left:50;
+                margin-bottom:55px;
+                margin-right:50
+            }
+		
